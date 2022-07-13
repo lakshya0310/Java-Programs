@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=prime_digits
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=void\ digitSeper(int)
+comment3.params=p
+comment3.target=boolean\ isPrime(int)
+numComments=4

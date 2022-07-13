@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=circular_prime
+comment0.text=\r\n\ WAP\ a\ program\ to\ check\ whether\ a\ number\ is\ circular\ prime\r\n
+comment1.params=x
+comment1.target=int\ noOfDigits(int)
+comment2.params=x
+comment2.target=boolean\ isPrime(int)
+comment3.params=x
+comment3.target=int\ circularNo(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

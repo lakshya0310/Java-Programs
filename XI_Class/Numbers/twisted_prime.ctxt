@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=twisted_prime
+comment0.text=\r\n\ WAP\ to\ check\ whether\ number\ is\ TWISTED\ PRIME\ or\ EMIRP\ number\ or\ not.(A\ number\ is\ said\ to\ \r\n\ be\ emirp\ number\ if\ its\ is\ also\ a\ prime\r\n
+comment1.params=x
+comment1.target=boolean\ isPrime(int)
+comment2.params=x
+comment2.target=int\ reversenum(int)
+comment3.params=x
+comment3.target=int\ countdigits(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

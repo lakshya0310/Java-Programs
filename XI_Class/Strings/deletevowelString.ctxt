@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=deletevowelString
+comment0.text=\r\nWAP\ to\ accept\ a\ sentence\ and\ display\ it\ after\ removing\ all\ vowels\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2

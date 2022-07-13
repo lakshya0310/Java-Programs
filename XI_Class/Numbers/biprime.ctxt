@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=biprime
+comment0.text=\r\n\ WAP\ a\ semi\ prime\ or\ bi\ prime\ number\ or\ not\ \r\n\ (semi\ prime\ or\ bi\ prime\ is\ natural\ number\ which\ is\ a\ product\ of\ exactly\ two\ prime\ numbers)\r\n
+comment1.params=x
+comment1.target=boolean\ isPrime(int)
+comment2.params=
+comment2.target=void\ main()
+numComments=3

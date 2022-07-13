@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=twisted_prime_range
+comment0.text=\r\n\ WAP\ to\ print\ for\ printing\ TWISTED\ PRIMES\ in\ a\ range\r\n
+comment1.params=x
+comment1.target=boolean\ isPrime(int)
+comment2.params=x
+comment2.target=int\ reversenum(int)
+comment3.params=x
+comment3.target=int\ countdigits(int)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

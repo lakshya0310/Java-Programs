@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=anagram
+comment0.text=\r\n\ WAP\ to\ create\ a\ text\ file\ anagram.txt\ with\ the\ following\ details\r\n\ Accept\ 10\ sets\ of\ words\ from\ the\ user\ \r\n\ Store\ them\ in\ file\ and\ also\ whether\ they\ are\ anagrams\ or\ not\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=s1\ s2
+comment2.target=boolean\ isAnagram(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ printAnagrams()
+numComments=4

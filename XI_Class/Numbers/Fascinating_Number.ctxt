@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Fascinating_Number
+comment1.params=
+comment1.target=void\ main()
+comment2.params=n
+comment2.target=long\ digitsN(int)
+comment3.params=N
+comment3.target=boolean\ isFascinatingNumber(long)
+numComments=4

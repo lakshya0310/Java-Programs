@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Smith_Number
+comment1.params=n
+comment1.target=void\ primeFactor(int)
+comment2.params=x
+comment2.target=int\ sumOfDigits(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4
