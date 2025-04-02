@@ -1,2 +1,2 @@
-# JavaScript Programs
- Some JavaScript programs
+# Java Programs
+ Some Java programs
